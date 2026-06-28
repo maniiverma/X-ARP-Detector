@@ -1,7 +1,7 @@
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║                 PROJECT: X-ARP DEFENSOR v3.0                     ║
-# ║  Enterprise-Grade Multi-Layer ARP Spoofing Prevention & SOC      ║
-# ╚══════════════════════════════════════════════════════════════════╝
+# ╔═════════════════════════════╗
+# ║ PROJECT: X-ARP DEFENSOR v3.0  ║
+# ║ARP Spoofing Prevention & SOC  ║
+# ╚═════════════════════════════╝
 
 X-ARP Defensor is a multi-layered, production-grade cybersecurity intelligence platform engineered for real-time Layer-2 network threat monitoring, deterministic vulnerability mitigation, and active digital infrastructure protection. 
 
