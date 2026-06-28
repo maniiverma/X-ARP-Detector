@@ -294,11 +294,9 @@ This makes it a strong portfolio project for cybersecurity, SOC engineering, blu
 
 ---
 
-## Author
-
 **Mani Verma**  
 Cybersecurity Student / Security-Focused Developer  
-Delhi, India
+Punjab, India
 
 ---
 
